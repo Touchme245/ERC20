@@ -1,0 +1,53 @@
+{
+	"compiler": {
+		"version": "0.8.22+commit.4fc1097e"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"ERC20/ERC.sol": "Name"
+		},
+		"evmVersion": "shanghai",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"ERC20/ERC.sol": {
+			"keccak256": "0x4855e77c63bc37be13db3adcc7b83cacecb53a715af0fb62d51626a907f69640",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://198025e459bec0de52f8d8138d6c2d6773f2220a9d3d4fed2adb0fdcd8eea1f9",
+				"dweb:/ipfs/QmaZCMBWaBGmabeSWpvVB3NVENxS4DCNYo9P11ApmzcVac"
+			]
+		},
+		"ERC20/IERC20.sol": {
+			"keccak256": "0x512de26d87af170fd07dba7d05cbe773ddd0fdacb55c5d63ed8904245b54cacf",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://b4da7de4869b02d0d2a386464e441f102b13ff062a5f8d413f24814d3ed2a1b9",
+				"dweb:/ipfs/QmWzAYr8YhXgDyZrVk4TkLnfrS8rYCF4oHBe7qLunHAJMQ"
+			]
+		}
+	},
+	"version": 1
+}

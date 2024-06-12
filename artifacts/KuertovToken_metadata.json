@@ -1,0 +1,61 @@
+{
+	"compiler": {
+		"version": "0.8.22+commit.4fc1097e"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"ERC20/KuertovToken.sol": "KuertovToken"
+		},
+		"evmVersion": "shanghai",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"ERC20/ERC.sol": {
+			"keccak256": "0xe3e172b0e3114166c993d95cd7dfb04f6d7a906e3e09272495dc4a46554eaec4",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://624e20de9fa89014e96e80d572469695291f5a260014b252cf3973b75e8507af",
+				"dweb:/ipfs/QmeTAXnvP8qAV9pNjYm8QiHCHYiyNHSqzHB14fSmUZCn5Q"
+			]
+		},
+		"ERC20/IERC20.sol": {
+			"keccak256": "0x1df8dabde9ab8e6f535d4a971fa952390041ff2427cec9c9c8ef744ad6a80c11",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://1889447a37fb57a3b53d104cad9b8f933619e19741d203cfc7323d73b508efe4",
+				"dweb:/ipfs/QmVgerthbxRuFE2S4zJrZjD9BEp4u9vbwZMhobRCL1Smme"
+			]
+		},
+		"ERC20/KuertovToken.sol": {
+			"keccak256": "0xa919871968791f4eed7847446876541d2e6ef4d583f75c0d3459fae93b543b2f",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://1a2b55a8a6d6b1b6f4802e2a296ece9d91df8ee8276e06ded93ce7117e584ece",
+				"dweb:/ipfs/QmS7CydNufP599id894PCofPwVubxSTnaJYSSaRYGkLCwB"
+			]
+		}
+	},
+	"version": 1
+}
